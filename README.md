@@ -26,5 +26,5 @@ In our implemantion, we will be finding the distance between the new data_instan
     <li>Total Attributes: 12</li>
     <li>Number of instance: 918</li>
     <li>Accuracy Score: 61.41%</li>
-    <li>[View Notebook](https://github.com/kumarharsh13/K_Nearest_Neighbors_Classifier_from_Scratch_in_Python/blob/main/K_Nearest_Neighbors_Classifier_from_Scratch_in_Python.ipynb)</li>
+    <li><a href="https://github.com/kumarharsh13/K_Nearest_Neighbors_Classifier_from_Scratch_in_Python/blob/main/K_Nearest_Neighbors_Classifier_from_Scratch_in_Python.ipynb" target="_blank">View Notebook</a></li>
 </ul>
